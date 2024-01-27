@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1705562912 source:c:\users\lenovo\videos\lab final work\115 project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1705562912 source:c:\users\pavel\downloads\13_mahirafserpavel_1911580042_acms_cse115_intersession\115 project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1705562912 source:c:\users\pavel\downloads\13_mahirafserpavel_1911580042_acms_cse115_intersession\cse115\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
